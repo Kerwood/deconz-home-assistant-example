@@ -1,6 +1,6 @@
 # deconz-home-assistant-example
-Docker compose example of deCONZ and Home Assistant.
-Change the mount point of the two volumes and make sure that your Conbee device is at `/dev/ttyUSB0`.
+Docker compose example of deCONZ and Home Assistant.  
+Change the mount point of the two volumes and make sure that your Conbee device is at `/dev/ttyUSB0`.  
 Up that sh1t..
 
 ```
